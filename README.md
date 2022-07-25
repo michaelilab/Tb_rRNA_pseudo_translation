@@ -17,4 +17,6 @@ General pipeline: Alignment (Unix script) --> NormUCount (R script) --> Analysis
 
 ## TGIRT-mutation rate for rRNA in the human pathogen Trypanosoma brucei:
 
+An UNIX shell, smalt, PERL, samtools  and the pysamstats software are needed to use this script.
+
 
